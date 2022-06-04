@@ -1,0 +1,28 @@
+menu:
+- {name: 'speakers', url: '/people'}
+- {name: 'publications', url: '/publications'}
+- {name: 'references', url: '/references'}
+- {name: 'acknowledgment', url: '/acknowledgment'}
+#- {name: 'courses', url: '/courses'}
+#- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+people:
+- {name: 'Dr. Anthony Trioux', title: 'Associate Professor', department: 'Electronics Engineering', institution: 'Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France', institution_address: 'Campus Mont Houy, Valenciennes, France', phone: '+33 3 27 51 22 12', email: '<a href="mailto:anthony.trioux@uphf.fr">anthony.trioux@uphf.fr</a>', office: 'IEMN, Office 111', image: 'assets/img/contact.jpg', url: 'AT'}
+- {name: 'Pr. François-Xavier Coudoux', title: 'Full Professor', department: 'Electronics Engineering', institution: 'Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France', institution_address: 'Campus Mont Houy, Valenciennes, France', phone: '+33 3 27 51 13 60', email: '<a href="mailto:francois-xavier.coudoux@uphf.fr">francois-xavier.coudoux@uphf.fr</a>', office: 'IEMN, Office XXX', image: 'assets/img/FX.jpg', url: 'FX'}
+- {name: 'Pr. Marco Cagnazzo', title: 'Associate Professor', department: 'Information Engineering', institution: 'Univ. of Padua', institution_address: 'Via VIII Febbraio, 2, Padova PD, Italy', phone: '(000) 000-0000', email: '<a href="mailto:marco.cagnazzo@unipd.it">marco.cagnazzo@unipd.it</a>', office: 'to be defined', image: 'assets/img/MC.jpg', url: 'MC'}
+- {name: 'Pr. Michel Kieffer', title: 'Full Professor', department: 'to be defined', institution: 'Univ. Paris-Saclay/Centrale Supéléc', institution_address: 'Rue Joliot Curie, Gif-sur-Yvette, France', phone: '(000) 000-0000', email: '<a href="mailto:michel.kieffer@l2s.centralesupelec.fr">michel.kieffer@l2s.centralesupelec.fr</a>', office: 'to be defined', image: 'assets/img/MK.jpg', url: 'MK'}
+
+courses:
+#- {name: 'Vector Calculus', url: 'vector-calculus'}
+#- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+#- {name: 'Stellar Structures', url: 'stellar-structures'}
+
+social:
+#- {icon: 'github', link: 'https://github.com/LeNPaul'}
+- {icon: 'twitter', link: 'https://twitter.com/anthony_trioux'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'linkedin', link: 'https://fr.linkedin.com/in/anthony-trioux/en?original_referer='}
+
+contacts:
+- {name: 'Dr. Anthony Trioux', title: 'Associate Professor', department: 'Electronics Engineering', institution: 'Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France', institution_address: 'Campus Mont Houy, Valenciennes, France', phone: '+33 3 27 51 22 12', email: '<a href="mailto:anthony.trioux@uphf.fr">anthony.trioux@uphf.fr</a>', office: 'IEMN, Office 111', image: 'assets/img/contact.jpg'}

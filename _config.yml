@@ -1,0 +1,6 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "<h5>Linear Video Coding and Transmission schemes for next generation video applications</h5>" # the name of your site, e.g. ACME Corp.
+description: "VCIP 2022 Tutorial, 13th December, Suzhou, China"
+#title: "VCIP 2022 Tutorial, 13th December, Suzhou, China" # the name of your site, e.g. ACME Corp.
+#description: "<strong>Linear Video Coding and Transmission architectures: Towards graceful degradations in mobile, latency-critical and immersive video communications</strong>"
