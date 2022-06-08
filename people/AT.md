@@ -7,7 +7,7 @@ Associate Professor - Electronics Engineering
 
 Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France - Campus Mont Houy, Valenciennes, France
 
-Phone: +33 3 27 51 22 12
+Phone: +33 3 27 51 13 24
 
 Email: <a href="mailto:anthony.trioux@uphf.fr">anthony.trioux@uphf.fr</a>
 
