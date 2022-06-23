@@ -11,7 +11,7 @@ Phone: +33 3 27 51 13 60
 
 Email: <a href="mailto:francois-xavier.coudoux@uphf.fr">francois-xavier.coudoux@uphf.fr</a>
 
-Laboratory: IEMN, Office XXX
+Laboratory: IEMN
 
 ---
 
