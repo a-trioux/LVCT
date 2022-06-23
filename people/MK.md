@@ -3,15 +3,15 @@ layout: page
 title: "Pr. Michel Kieffer"
 ---
 
-Full Professor - XXXX
+Full Professor - Networks Engineering
 
 Univ. Paris-Saclay/Centrale Supélec - Rue Joliot Curie, Gif-sur-Yvette, France
 
-Phone: +33 3 XXXXXXXXXX
+Phone: +33 1 69 85 17 32
 
 Email: <a href="mailto:michel.kieffer@l2s.centralesupelec.fr">michel.kieffer@l2s.centralesupelec.fr</a>
 
-Laboratory: L2S, Office XXX
+Laboratory: L2S
 
 ---
 
