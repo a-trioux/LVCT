@@ -25,4 +25,4 @@ social:
 - {icon: 'linkedin', link: 'https://fr.linkedin.com/in/anthony-trioux/en?original_referer='}
 
 contacts:
-- {name: 'Dr. Anthony Trioux', title: 'Associate Professor', department: 'Electronics Engineering', institution: 'Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France', institution_address: 'Campus Mont Houy, Valenciennes, France', phone: '+33 3 27 51 13 24', email: '<a href="mailto:anthony.trioux@uphf.fr">anthony.trioux@uphf.fr</a>', office: 'IEMN, Office 111', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Anthony Trioux', title: 'Associate Professor', department: 'Electronics Engineering', institution: 'Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France', institution_address: 'Campus Mont Houy, Valenciennes, France', phone: '+33 3 27 51 13 24', email: '<a href="mailto:anthony.trioux@uphf.fr">anthony.trioux@uphf.fr</a>', office: 'IEMN', image: 'assets/img/contact.jpg'}
