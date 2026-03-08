@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pr. Marco Cagnazzo"
+noindex: true
 ---
 
 Associate Professor - Information Engineering
