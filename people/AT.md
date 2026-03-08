@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dr. Anthony Trioux"
+noindex: true
 ---
 
 Associate Professor - Electronics Engineering
