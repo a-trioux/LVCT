@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pr. François-Xavier Coudoux"
+noindex: true
 ---
 
 Full Professor - Electronics Engineering
