@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pr. Michel Kieffer"
+noindex: true
 ---
 
 Full Professor - Networks Engineering
